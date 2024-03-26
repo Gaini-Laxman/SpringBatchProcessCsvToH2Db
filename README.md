@@ -32,12 +32,13 @@ transforming data, reading and writing to databases and so on.</li>
 <b>1 )</b> Download your project from this link shown below 
 ```
     git clone https://github.com/Gaini-Laxman/SpringBatchProcessCsvToH2Db
+```
 
 <b>2 )</b> Go to the project's home directory shown below
 ```
     cd batchprocessingcsvtodatabase
+    
 ```
-
 <b>3 )</b> Create a jar file though this command shown below
 ```
     mvn clean install
